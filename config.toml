@@ -15,6 +15,7 @@ included-patches = "'Visual preferences icons for YouTube''Custom branding icon 
 patcher-args = """\
   -OdarkThemeBackgroundColor=#FF111111 \
   -OlightThemeBackgroundColor=#FFF9F9F9 \
+  -OCustombrandingiconforYouTube=youtube_black
 """
 
 [YouTube-Music-Extended]
